@@ -1,5 +1,7 @@
 # AngularJwtClient
 
+This is a client application for an existing spring-security-jwt project. It demonstrates the usage of authorization using JSON Web Tokens.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.6.
 
 ## Development server
